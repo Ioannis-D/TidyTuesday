@@ -15,4 +15,4 @@ Apart from that, I make a quick regression to see if unmeployment and income aff
 |avg_funr_20to64 | -786.452|    459.802|  -1.710|    0.162| 1.778|
 |avg_munr_20to64 | -579.662|    495.170|  -1.171|    0.307| 1.778|
 
-https://github.com/Ioannis-D/TidyTuesday/blob/main/May/2nd%20Week/Both%20graphs.png
+<img ./Both\ Graphs.png>
