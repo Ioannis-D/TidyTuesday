@@ -32,10 +32,6 @@ coef_table <- data.frame(summary_table$coefficients)
 # Add a column for standard errors
 coef_table$SE <- summary_table$sigma
 
-# Add a row for R-squared
-r_squared <- data.frame(term = "R-squared", estimate = summary_table$r.squared, SE = NA)
-coef_table <- rbind(coef_table[1:dim(coef_table)[1]-1,], r_squared, coef_table[dim(coef_table)[1],])
-
 # Format the table using kable
 kable(coef_table, digits = 3)
 
