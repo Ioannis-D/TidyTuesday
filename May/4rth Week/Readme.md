@@ -1,6 +1,6 @@
-This week the data come from the '2018 Central Park Squirrel Census' and are about squirrels in Central Park, NY. 
+This week the data come from the [2018 Central Park Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) and are about squirrels in Central Park, NY. 
 
-I examine if Adult squirrels are more afraid of humans than Juveniles, with the difference not being very important. It seems that juveniles are more attent when a human is present: 
+I examine if Adult squirrels are more afraid of humans than Juveniles, with the difference not being very important. It seems that juveniles are more attend when humans are present: 
 
 <div align="center">
 
