@@ -129,8 +129,6 @@ ggplot() +
                 label = paste0("<span style='font-family:fa-solid'>&#x", to_plot$icons,";</span>"),
                 size = 18, label.colour = NA, fill = NA, col = to_plot$colors, position = position_dodge(width = 0.5)) +
   
-  # The text
-  
   # -----The legend-----
   # Icons
   geom_richtext(data = legend_icons, 
@@ -158,7 +156,6 @@ ggplot() +
   
   ggtitle("SCURVY¤ILLNESS", subtitle = sub_text) + 
   
-  # Subtitle 
   theme(
     plot.title = element_text(family = 'treasurehunt', face = 'bold', size = 50, hjust = 0.5, colour = title),
     plot.subtitle = element_text(family = 'freebooter', size = 18, hjust = 0.5, colour = title),
