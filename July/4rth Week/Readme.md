@@ -6,7 +6,7 @@ The results of each seaman are the object of my plotting.
 
 I created final overview of the situation of each patient based on their treatment. 
 
-I found really helpful the article written by Añbert Rapp on [How to use Fonts and Icons in ggplot](https://albert-rapp.de/posts/ggplot2-tips/08_fonts_and_icons/08_fonts_and_icons.html) which showed me how to manipulate icons from [Font Awesome](https://fontawesome.com/).
+I found really helpful the article written by Albert Rapp on [How to use Fonts and Icons in ggplot](https://albert-rapp.de/posts/ggplot2-tips/08_fonts_and_icons/08_fonts_and_icons.html) which showed me how to manipulate icons from [Font Awesome](https://fontawesome.com/).
 
 
 ![Scurvy](https://github.com/Ioannis-D/TidyTuesday/blob/main/July/4rth%20Week/24_07.png)
