@@ -158,7 +158,7 @@ ggplot() +
   
   theme(
     plot.title = element_text(family = 'treasurehunt', face = 'bold', size = 50, hjust = 0.5, colour = title),
-    plot.subtitle = element_text(family = 'freebooter', size = 18, hjust = 0.5, colour = title),
+    plot.subtitle = element_text(family = 'freebooter', size = 16, hjust = 0.5, colour = title),
     
     plot.background = element_rect(fill = background, colour = NA),
     panel.background = element_rect(fill = background, colour = NA),
