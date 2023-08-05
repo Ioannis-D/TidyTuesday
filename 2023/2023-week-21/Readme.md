@@ -14,4 +14,4 @@ I examine if Adult squirrels are more afraid of humans than Juveniles, with the 
  
 I also made a map which shows that at the South-East side of the Central Park, squirrels are more likely to approach humans and less likely to avoid them than at the North-West side.
 
-![Squirrels' Behavior with humans](https://github.com/Ioannis-D/TidyTuesday/blob/main/May/4rth%20Week/Squirrels'%20Behavior%20with%20humans.png)
+![Squirrels' Behavior with humans](https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-21/Squirrels'%20Behavior%20with%20humans.png)
