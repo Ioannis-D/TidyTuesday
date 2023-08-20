@@ -3,7 +3,7 @@ This week the data are about spam emails.
 It is the first time I participate in TidyTuesday writing the code in Python and not in R. 
 
 Thanks to [this article](https://www.pythoncharts.com/matplotlib/radar-charts/) by [Alex](https://www.pythoncharts.com/matplotlib/radar-charts/), I was able to learn how to make a radar chart in matplotlib. 
-Because it is not possible to subplot a 'polar' chart and other types of chart, I decided to make three different ones and combine them using the 'Pillow' library. 
+Because it is not possible to subplot a 'polar' chart and other types of charts, I decided to make three different ones and combine them using the 'Pillow' library. 
 
 So, first, I created the radar chart, then I moved to the two boxplots and finally I made a new plot with the title and the subtitle of the final plot. 
 At the end, I combined all the images into one and this is the result. 
