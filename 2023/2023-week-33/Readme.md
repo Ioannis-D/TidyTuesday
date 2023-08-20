@@ -8,6 +8,6 @@ Because it is not possible to subplot a 'polar' chart and other types of chart, 
 So, first, I created the radar chart, then I moved to the two boxplots and finally I made a new plot with the title and the subtitle of the final plot. 
 At the end, I combined all the images to one and this is the result. 
 
-![A chart with the title Characteristics of NO SPAM email. Below are two plots, on the left a radar chart and on the right two boxplots each representing spam and no-spam emails]()
+![A chart with the title Characteristics of NO SPAM email. Below are two plots, on the left a radar chart and on the right two boxplots each representing spam and no-spam emails](https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-33/17_08.png)
 
 Spam emails tend to be longer. Apart from that, no-spam emails rarely contain the phrase 'make money' or have large numbers (for example with at least 3 zeros). Of course, exlamation marks and dollar signs are also strong indicators of a spam.
