@@ -4,7 +4,6 @@ import numpy as np
 from math import pi
 
 import matplotlib.pyplot as plt
-import matplotlib.font_manager as fm
 
 # Load custom fonts
 import matplotlib as mpl
