@@ -246,4 +246,4 @@ img.paste(radar_size, (0, 1000))
 
 # Save and show the final image
 img.show()
-img.save('17_08.png')
+img.save('15_08.png')
