@@ -2,7 +2,7 @@ This week, TidyTuesday data examines the [CRAN packages' authors and maintainers
 
 I decided to make a 'light' plot to pay attribute to the ones that more have contributed to the R project, by writing and maintaining all these packages that we use in our analysis. 
 
-Unfortunately, the plot only shows the top 10 contributors by the total number of packages. But, of course, this is a big thank you to everyone who contributes not only in R project but in whichever open source project. 
+Although the plot only shows the top 10 contributors by the total number of packages, this week's project is a big thank you to everyone who contributes not only in R project but in whichever open source project. 
 
 I had to use some Regular Expressions to extract the names of the maintainers because they were in the form of: <Name(s)> <Surname(s)> <email> and sometimes the name was, for example A. or if there were more than one Surname, it could be in the form \<surname\> - \<surname\> or they could have a space between them. 
 
